@@ -1,4 +1,5 @@
-<iframe width="560" height="315" src='https://dbdiagram.io/embed/60cc3ad60c1ff875fcd56632'> </iframe>
+![Untitled](https://user-images.githubusercontent.com/4121550/122529655-acd0da00-d058-11eb-8a3d-e91e7dda0a9a.png)
+https://dbdiagram.io/d/60cc3ad60c1ff875fcd56632
 
 ```sql
 Table users {
